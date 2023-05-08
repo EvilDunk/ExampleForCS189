@@ -1,0 +1,11 @@
+//// https://github.com/EvilDunk/ExampleForCS189 ////
+1.
+  a. Download and install Git.
+  b. Git bash interface.
+  c. Basic Git commands.
+  d. Create a local repository.
+  e. Connect to the remote repository.
+  f. Push the file to GitHub.
+2. See Screenshot
+3. Each has their strengths and weeknesses, but I personally love Git for its ability to allow branching and asynchronously commit changes.
+4. See Screenshot
